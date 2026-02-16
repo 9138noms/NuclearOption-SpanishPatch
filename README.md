@@ -1,6 +1,6 @@
 # Nuclear Option – Parche en español (Localization Patch)
 
-Mod de traducción al español para Nuclear Option. Funciona como plugin de BepInEx y traduce la interfaz, enciclopedia, consejos y descripciones emergentes — un total de **1.427 entradas**.
+Mod de traducción al español para Nuclear Option. Funciona como plugin de BepInEx y traduce la interfaz, enciclopedia, consejos y descripciones emergentes — un total de **1.447 entradas**.
 
 ## Requisitos
 
@@ -29,7 +29,7 @@ Mod de traducción al español para Nuclear Option. Funciona como plugin de BepI
 | Archivo | Descripción |
 |---------|-------------|
 | `LocalizationPatch.dll` | Plugin del parche |
-| `es.json` | Datos de traducción al español (1.427 entradas) |
+| `es.json` | Datos de traducción al español (1.447 entradas) |
 
 ## Atajos de teclado en el juego
 
